@@ -474,7 +474,7 @@ def button_handler(call):
         bot.edit_message_text(
             (
                 f"💳 Информация о покупке\n\n"
-                f"Цена: *{CRYPTO_AMOUNT} TON* или *{YOOKASSA_AMOUNT} RUB* (~$10.7)\n"
+                f"Цена: *{CRYPTO_AMOUNT} TON* или *{YOOKASSA_AMOUNT} RUB* \n"
                 "Выберите способ оплаты:\n"
                 "- *CryptoBot*: Оплата через криптовалюту.\n"
                 "- *YooKassa*: Оплата картой.\n\n"
