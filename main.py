@@ -17,7 +17,7 @@ import sqlite3
 
 # --- Настройки ---
 # Цены, ссылка на приложение и новости
-CRYPTO_AMOUNT = 0.01  # TON для CryptoBot
+CRYPTO_AMOUNT = 0.0001  # TON для CryptoBot
 YOOKASSA_AMOUNT = 0.01  # RUB для YooKassa
 APP_DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/ze5ebd909z2qeaaucn56q/VALTURE.exe?rlkey=ihdzk8voej4oikrdhq0wfzvbb&st=7lufvad0&dl=1"
 NEWS_TEXT = (
