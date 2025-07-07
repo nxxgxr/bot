@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.22.1
+requests==2.32.3
+gspread==6.1.2
+google-auth==2.34.0
+yookassa==3.2.0
+Flask==3.0.3
+python-dotenv==1.0.1
